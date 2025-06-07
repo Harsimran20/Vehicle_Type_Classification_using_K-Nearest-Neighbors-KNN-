@@ -35,7 +35,9 @@ To build a machine learning model capable of accurately classifying vehicle type
 
 1. Clone or download the project files.  
 2. Install required libraries if you haven’t already:
+   
 pip install pandas scikit-learn matplotlib seaborn
+
 Run the Python script:
 vehicle_type_knn.py
 🔧 Key Features of the Code
