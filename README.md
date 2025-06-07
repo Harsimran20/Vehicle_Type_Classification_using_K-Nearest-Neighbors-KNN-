@@ -40,7 +40,9 @@ pip install pandas scikit-learn matplotlib seaborn
 
 Run the Python script:
 vehicle_type_knn.py
+
 🔧 Key Features of the Code
+
 Data loading and preprocessing (feature scaling, label encoding).
 
 Stratified train-test split to maintain class distribution.
